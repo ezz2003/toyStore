@@ -1,0 +1,12 @@
+ID: 0, Title: кукла
+ID: 2, Title: конструктор
+ID: 0, Title: кукла
+ID: 0, Title: кукла
+ID: 0, Title: кукла
+ID: 0, Title: кукла
+ID: 1, Title: робот
+ID: 1, Title: робот
+ID: 0, Title: кукла
+ID: 2, Title: конструктор
+
+
